@@ -1,0 +1,41 @@
+{
+    "name": "Find my phone",
+    "skillMetadata": {
+        "sections": [
+            {
+                "name": "Phone 1",
+                "fields": [
+                    {
+                        "name": "phone_1_name",
+                        "type": "text",
+                        "label": "Name",
+                        "value": ""
+                    },
+                    {
+                        "name": "phone_1_key",
+                        "type": "text",
+                        "label": "IFTTT Key",
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "name": "Phone 2",
+                "fields": [
+                    {
+                        "name": "phone_2_name",
+                        "type": "text",
+                        "label": "Name",
+                        "value": ""
+                    },
+                    {
+                        "name": "phone_2_key",
+                        "type": "text",
+                        "label": "IFTTT Key",
+                        "value": ""
+                    }
+                ]
+            }
+        ]
+    }
+}
