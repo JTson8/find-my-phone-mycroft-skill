@@ -1,2 +1,2 @@
-(.* )((where is|find|search for|call) (?P<PhoneName>[^\s]+)s phone
-(.* )((where is|find|search for|call) (?P<PhoneName>[^\s]+) phone
+(.* )(where is|find|search for|call) (?P<PhoneName>[^\s]+)s phone
+(.* )(where is|find|search for|call) (?P<PhoneName>[^\s]+) phone
